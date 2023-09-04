@@ -1,0 +1,2 @@
+- The folder includes the notebook used for analysis, my public schema diagram for reference, and a python file used as a local module.
+- The SQL file includes the query used to create the daily aggregate table in addition to queries used in Python to retrieve data from this table.
